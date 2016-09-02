@@ -1,4 +1,4 @@
-function [ h, M, covar_post, noisev, n, DeltaQ, l0, l1, l2 ] = ssr( data,n,min_n, kernel )
+function [ h, M, covar_post, noisev, n, DeltaQ, l0, l1, l2 ] = sh( data,n,min_n, kernel )
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
