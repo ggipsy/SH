@@ -1,5 +1,5 @@
 # SH
-MATLAB code of the algorithm illustrated in the manuscript "Maximum Entropy Vector Kernels for MIMO sysdtem identification" 
+MATLAB code of the algorithm illustrated in the manuscript "Maximum Entropy Vector Kernels for MIMO sysdtem identification", 
 G. Prando, G. Pillonetto, A. Chiuso.
 
 To use it, just run the routine sh.m.
